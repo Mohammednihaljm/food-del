@@ -19,7 +19,7 @@ const Navbar = () => {
           <div className="dot"></div>
         </div>
         <button>
-          sign <input type="button" value="" />
+          sign 
         </button>
       </div>
     </div>
